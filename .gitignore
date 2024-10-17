@@ -70,3 +70,4 @@ mochawesome-report/
 *.swo
 *.lock-wscript
 npm-shrinkwrap.json
+node_modules
