@@ -1,6 +1,6 @@
 # Next.js Starter Project 🚀
 
-This is a starter project for a **Next.js** application with my favorite tools to get started. The setup includes **Storybook**, **Mocha**, **ESLint**, and **Jest** for testing and development.
+This is a template starter project for a **Next.js** application with preferred tools to get started. The setup includes **Storybook**, **Mocha**, **ESLint**, and **Jest** for testing and development.
 
 ## Features
 
