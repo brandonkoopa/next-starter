@@ -1,0 +1,10 @@
+# Template repository configuration
+keep:
+  - .github/
+  - src/
+  - LICENSE
+  - README.md
+
+cleanup:
+  - .github/template-cleanup/
+  - TEMPLATE_README.md 
